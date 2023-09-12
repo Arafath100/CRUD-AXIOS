@@ -29,14 +29,17 @@ Follow these steps to set up and run the application locally:
 
 2. Navigate to the project directory:
 
+    ```bash
     cd CRUD
     
 3. Install dependencies:
 
+   ```bash
    npm install
 
 4. Start the development server:
 
+   ```bash
    npm start
 
 
